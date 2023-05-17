@@ -19,7 +19,7 @@ expo start
 
 
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=calc_imc"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=calc_imc_mobile"/>
   <a href="https://github.com/fabioVitorio">
 </div>
 
