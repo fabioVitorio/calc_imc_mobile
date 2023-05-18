@@ -1,4 +1,4 @@
-### <p align='center'> <img src="https://github.com/fabioVitorio/calc_imc/assets/109548564/e85309d6-318e-44a0-bbe4-b36e050c198f" width="120"/> </p>
+### <p align='center'> <img src="https://github.com/fabioVitorio/calc_imc/assets/109548564/e85309d6-318e-44a0-bbe4-b36e050c198f" width="110"/> </p>
 <br>
 <p align='center'> body mass index calculator <br></p>
 
